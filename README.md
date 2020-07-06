@@ -3,7 +3,7 @@
 
 I was fascinated by sorting algorithms and planned to visualize the action of these algorithms.
 
-I visualized 
+I visualized the following sorting algorithms using HTML,CSS and JS.
 
 1)Bubble sort
 
