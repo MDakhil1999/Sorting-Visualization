@@ -17,4 +17,7 @@ I visualized the following sorting algorithms using HTML,CSS and JS.
 
 6)Heap Sort
 
+![sorting1](https://user-images.githubusercontent.com/42731608/86566225-ec590000-bf86-11ea-8dc5-d9a23d5d6d11.jpeg)
+
+
 
