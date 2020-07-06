@@ -21,5 +21,7 @@ I visualized the following sorting algorithms using HTML,CSS and JS.
 
 ![merge](https://user-images.githubusercontent.com/42731608/86567692-68544780-bf89-11ea-986b-4f164a1468ae.jpeg)
 
+![sorting2](https://user-images.githubusercontent.com/42731608/86566360-26c29d00-bf87-11ea-9d69-280243f68bd8.jpeg)
+
 
 
