@@ -23,5 +23,14 @@ I visualized the following sorting algorithms using HTML,CSS and JS.
 
 ![sorting2](https://user-images.githubusercontent.com/42731608/86566360-26c29d00-bf87-11ea-9d69-280243f68bd8.jpeg)
 
+I was inspired by Clément Mihailescu. This project really helps me on brushing sorting algorithms and helped me to learn timer function in JavaScript.
+
+## Features of this project
+* Size of the array.
+* Speed of the algorithm.
+* Generate new array.
+* 6 sorting implementations.
+
+
 
 
