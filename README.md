@@ -31,6 +31,22 @@ I was inspired by Clément Mihailescu. This project really helps me on brushing 
 * Generate new array.
 * 6 sorting implementations.
 
+## Characteristics
+* We can see step by step what is happening.
+
+4 colours are used here for easy understanding.
+* Yellow
+* Blue
+* Red
+* Green
+
+* The number of elements in array ie size of array varies from 20(minimum) to 150(maximum).
+* The speed of algorithm is in 5 steps varies from 1(minimum) to 5(maximum).
+* 6 sorting algorithms are visualised here.
+
+
+
+
 
 
 
